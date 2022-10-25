@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="156" viewBox="0 0 109 156" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <polyline id="a" points="24.222 46.378 24.222 46.378 0 46.378 0 156 109 156 109 46.378 84.778 46.378"/>
+    <mask id="b" width="109" height="109.622" x="0" y="0" fill="white">
+      <use xlink:href="#a"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd" stroke="#F6A623">
+    <use stroke-width="16" mask="url(#b)" xlink:href="#a"/>
+    <g stroke-width="8" transform="translate(24.215)" stroke-linecap="square">
+      <path d="M59.7798531,79.9582895 L30.1357611,109.77144"/>
+      <path d="M30.4336993,79.9582895 L0.789607282,109.77144" transform="matrix(-1 0 0 1 31.223 0)"/>
+      <path d="M30.6666667,0 L30.6666667,103.297297"/>
+    </g>
+  </g>
+</svg>
